@@ -1,6 +1,7 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyejinbeck)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=beckhye)]([벨로그링크](https://velog.io/@beckhye))
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=첫번째+줄+의+텍스트;두번째+줄+의+텍스트)](https://git.io/typing-svg)
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
