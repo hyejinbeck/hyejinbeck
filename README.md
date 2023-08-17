@@ -1,5 +1,5 @@
-## Welcome My Github! 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요!+반갑습니다!; 백혜진입니다!)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20MyGithub&fontSize=90)
+
 
 
 
