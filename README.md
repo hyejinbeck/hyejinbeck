@@ -1,5 +1,6 @@
-리드미 꾸미기 (뱃지, 등등) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyejinbeck)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=beckhye)]([벨로그링크](https://velog.io/@beckhye))
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
