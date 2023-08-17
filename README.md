@@ -1,12 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20MyGithub&fontSize=90)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Good%20morning,&fontAlign=70&rotate=13&fontAlignY=25&desc=it's%20Hyejin's%20GitHub%20!&descAlign=70.&descAlignY=44)
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejinbeck&count_private=true&show_icons=true&theme=solarized-light)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=beckhye)](https://velog.io/@beckhye)
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 hyejinbeck/hyejinbeck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
