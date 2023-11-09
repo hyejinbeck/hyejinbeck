@@ -4,7 +4,7 @@
 <div align="center">
     <div style="margin-left: 20px;">
       <img src="https://github-readme-stats.vercel.app/api?username=hyejinbeck&count_private=true&show_icons=true&theme=solarized-light" alt="GitHub stats" />
-      <a href="https://velog.io/@beckhye">
+      <a href="[https://velog.io/@beckhye](https://velog.io/@hyejinbeck)">
         <img src="https://velog-readme-stats.vercel.app/api?name=beckhye" alt="Velog's GitHub stats" />
       </a>
     </div>
