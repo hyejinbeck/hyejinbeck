@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000305,100:050200&height=120&text=Customer,%20Insights&animation=fadeIn&fontColor=fbe137&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000305,100:050200&height=120&text=Customer,%20Insights&animation=fadeIn&fontColor=fbe137&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 백혜진, 고객 중심 데이터 분석가입니다. </h2>  
