@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 백혜진, 고객 중심 데이터 분석가입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">고객만족 기반, 더 나은 서비스와 프로세스 개선을 위해 데이터 분석을 진행합니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">고객만족 기반, 더 나은 서비스와 프로세스 개선을 위해 데이터 분석을 진행합니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
