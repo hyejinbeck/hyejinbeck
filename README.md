@@ -1,4 +1,4 @@
-<div align= "center">
+<!--<div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000305,100:050200&height=120&text=Data,%20Insights&animation=fadeIn&fontColor=fbe137&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
@@ -30,5 +30,5 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=hyejinbeck&bg_color=180,fbea79,00000000&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyejinbeck&layout=compact&bg_color=180,fbea79,00000000&title_color=000000&text_color=000000"
            /> </div> 
-    </div>
+    </div>-->
     
